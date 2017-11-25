@@ -8,7 +8,7 @@ import java.util.*;
 
 
 public class Vol {
-   /** @pdOid 896afed9-c429-410e-8794-8c6e5ed53215 */
+
    private String idVol;
    /** @pdOid 89e14f60-76d6-4e4c-8a42-f16b5e721818 */
    private String description;

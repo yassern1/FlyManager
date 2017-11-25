@@ -7,7 +7,7 @@
 import java.util.*;
 
 public class Companie {
-   /** @pdOid 3eded0d4-2bb9-46ac-8a9e-37dfe1d40f6d */
+
    private String idCompanie;
    /** @pdOid 93de42e8-ce85-4a6d-9256-dbd93a8cb76d */
    private String nomCompanie;
